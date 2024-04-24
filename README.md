@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/akshay_1_1_" target="blank"><img src="https://img.shields.io/twitter/follow/akshay_1_1_?logo=twitter&style=for-the-badge" alt="akshay_1_1_" /></a> </p>
 
-- 🌱 I’m currently learning **C,Java,Python,Html,css,NodeJS,ExpressJS,MongoDb,ReactJS,Flutter,FireBase,etc..**
+- 🌱 I’m actively learning **Html,css,NodeJS,ExpressJS,MongoDb,ReactJS,Flutter,FireBase,etc..**
 
-- 💬 Ask me about **Web Development,Android Developement,Digital Marketing,Figma,Flutter**
+- 💬 Ask me about **Web Development Developement,Digital Marketing,Figma,**
 
 - 📫 How to reach me **akshay68580@gmail.com**
 
