@@ -2,7 +2,7 @@
 
 **Full Stack Developer** | MERN Stack + Firebase
 
-Based in Kannur, India • [Portfolio](https://nextjs-portfolio-weld-pi.vercel.app/) • [LinkedIn](https://linkedin.com/in/Akshay21211)
+Based in Kannur, India • [Portfolio](https://akshay21211.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/akshay-p-b45a8b214/?trk=opento_sprofile_topcard)
 
 ---
 
