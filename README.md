@@ -1,14 +1,11 @@
-# Akshay P
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=35&pause=1000&color=6366F1&center=true&vCenter=true&width=1000&lines=Hey+there!+👋+I'm+Akshay;Full+Stack+Developer;MERN+Stack+%2B+Firebase;Building+clean,+scalable+web+apps;Based+in+Kannur,+Kerala,+India" alt="Typing SVG" />
+</div>
 
-**Full Stack Developer** | MERN Stack + Firebase
+<br/>
 
-Based in Kannur, India • [Portfolio](https://akshay21211.github.io/Portfolio/) • [LinkedIn](https://www.linkedin.com/in/akshay-p-b45a8b214/?trk=opento_sprofile_topcard)
-
----
-
-## About
-
-Full stack developer specializing in JavaScript technologies. I build web applications with clean code and practical solutions. Currently expanding my skill set with modern frameworks and cloud infrastructure.
+## About Me
+Full stack developer specializing in JavaScript technologies. I build web applications with clean code, practical solutions, and a focus on performance. Currently expanding into advanced frameworks and cloud infrastructure.
 
 **Currently working with:**
 - TypeScript, Next.js, React
@@ -16,49 +13,50 @@ Full stack developer specializing in JavaScript technologies. I build web applic
 - MongoDB, Firebase, MySQL
 - Docker, AWS, Google Cloud
 
----
+<br/>
 
 ## Tech Stack
-
-**Frontend:**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Tools & Platforms:**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
----
-
-## GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkShAy21211&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&icon_color=14b8a6&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkShAy21211&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="165" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,nodejs,express,graphql,mongodb,firebase,docker,aws,linux,figma&perline=7" alt="Skills" />
 </div>
 
+<br/>
+
+## GitHub Streak
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkShAy21211&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=14b8a6&fire=6366f1&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=AkShAy21211&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366f1&ring=14b8a6&fire=6366f1&currStreakLabel=c9d1d9" alt="GitHub Streak" />
 </div>
 
----
+<br/>
+
+## Trophies 🏆
+<div align="center">
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=AkShAy21211&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+<br/>
+
+## Fun Fact
+Proud to be from God's Own Country 🏝️🥥 – where coconuts are plentiful and code runs smoothly ☕
+
+<br/>
+
+## Visitor Count
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AkShAy21211&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<br/>
 
 ## Connect
+- **Portfolio:** [https://akshay21211.github.io/Portfolio/](https://akshay21211.github.io/Portfolio/)
+- **LinkedIn:** [https://www.linkedin.com/in/akshay-p-b45a8b214/](https://www.linkedin.com/in/akshay-p-b45a8b214/)
+- **GitHub:** [https://github.com/AkShAy21211](https://github.com/AkShAy21211)
 
-- **Portfolio:** (https://akshay21211.github.io/Portfolio/)
-- **LinkedIn:** [(https://linkedin.com/in/Akshay21211)
-- **GitHub:** (https://github.com/AkShAy21211)
+Open to collaborating on interesting projects! 🚀
 
-Open to collaborating on interesting projects.
+<br/>
+
+<!-- Optional: Contribution Snake (see instructions below) -->
+<!-- <div align="center">
+  <img src="https://raw.githubusercontent.com/AkShAy21211/AkShAy21211/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</div> -->
