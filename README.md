@@ -56,7 +56,7 @@ Open to collaborating on interesting projects! 🚀
 
 <br/>
 
-<!-- Optional: Contribution Snake (see instructions below) -->
-<!-- <div align="center">
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/AkShAy21211/AkShAy21211/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div> -->
+</div>
