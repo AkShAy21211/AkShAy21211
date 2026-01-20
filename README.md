@@ -57,8 +57,8 @@ Full stack developer specializing in JavaScript technologies. I build web applic
 
 ## Connect
 
-- **Portfolio:** [nextjs-portfolio-weld-pi.vercel.app](https://nextjs-portfolio-weld-pi.vercel.app/)
-- **LinkedIn:** [linkedin.com/in/Akshay21211](https://linkedin.com/in/Akshay21211)
-- **GitHub:** [@AkShAy21211](https://github.com/AkShAy21211)
+- **Portfolio:** (https://akshay21211.github.io/Portfolio/)
+- **LinkedIn:** [(https://linkedin.com/in/Akshay21211)
+- **GitHub:** (https://github.com/AkShAy21211)
 
 Open to collaborating on interesting projects.
