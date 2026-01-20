@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700
         with:
           github_user_name: AkShAy21211
           outputs: |
             output/github-contribution-grid-snake.svg?color_snake=14b8a6&color_dots=6366f1,ffffff,000000,ffffff,ffffff
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@df5cc2bfa78282ded844b354faee141f06b41865
         with:
           target_branch: output
           build_dir: output
