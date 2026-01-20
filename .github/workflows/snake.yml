@@ -8,6 +8,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: Platane/snk@e2cedf76a2c05b25d09a6428ded69727b497a700
         with:
@@ -20,4 +22,4 @@ jobs:
           target_branch: output
           build_dir: output
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.DEPLOY_TOKEN }}  # Use your new secret here
