@@ -17,7 +17,7 @@ Full stack developer specializing in JavaScript technologies. I build web applic
 
 ## Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,nodejs,express,graphql,mongodb,firebase,docker,aws,linux,figma&perline=7" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,redux,tailwind,nodejs,express,mongodb,firebase,docker,aws,linux,figma&perline=7" alt="Skills" />
 </div>
 
 <br/>
