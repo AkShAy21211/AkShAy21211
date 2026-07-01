@@ -79,3 +79,27 @@ Currently expanding into advanced backend patterns and cloud-native tooling.
 <div align="center">
   <sub>From God's Own Country 🥥 · Open to collaborating on meaningful projects 🚀</sub>
 </div>
+
+---
+
+### Featured Projects
+
+**[Comingle](https://github.com/AkShAy21211/Comingle-Client)** — Full-Stack Social Platform
+`TypeScript` `React 18` `Node.js` `Socket.IO` `MongoDB` `PeerJS` `AWS EC2` `Docker`
+→ Real-time chat, video/audio calling via WebRTC + PeerJS, JWT auth with refresh rotation
+→ Razorpay payments with webhook verification, PWA support, deployed on AWS with NGINX
+
+**[Volttron](https://github.com/AkShAy21211/VoltTorn-E-commerce)** — E-Commerce Platform
+`Node.js` `Express` `MongoDB` `Razorpay`
+→ RESTful APIs for product, auth, and order management with clean architecture
+→ RBAC admin dashboard, wallet system with full transaction logging and payment reconciliation
+
+**[GateUndo](https://github.com/AkShAy21211/GateUndo)** — Kerala Railway Gate Status PWA
+`Next.js` `Supabase` `Mapbox` `TypeScript`
+→ No-login, mobile-first community PWA for crowdsourced railway gate status in Kerala
+→ Real-time community reports, missing gate suggestions, civic utility tool
+
+**[NattuFeed](https://github.com/AkShAy21211/NattuFeed)** — Hyperlocal Community App
+`Next.js 15` `Firebase Firestore` `TypeScript`
+→ Real-time verified feed for Kannur residents — bus timings, local prices, civic alerts
+→ PWA-first, built for low-friction local information sharing
